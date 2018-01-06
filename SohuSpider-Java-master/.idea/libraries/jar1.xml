@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jar1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/jar/httpclient-cache-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/fluent-hc-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/mysql-connector-java-5.1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/httpclient-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/httpcore-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/fastjson-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/jsoup-1.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/json-jena-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jar/httpmime-4.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+TermQuery
+查“I 服了 U”查不到，
+因为在建索引的时候都转换为小写了
+
+StringField，默认不分词，只能完全匹配
+TextField，分词，拿一个词项去查询即可
+
+FuzzyQuery

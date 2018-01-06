@@ -1,0 +1,2 @@
+https://v2.sohu.com/public-api/feed?scene=CATEGORY&sceneId=994&page=2&size=20
+https://v2.sohu.com/public-api/feed?scene=CHANNEL&sceneId=8&page=40&size=20
